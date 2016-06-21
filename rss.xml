@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[the One sum game]]></title>
         <description><![CDATA[the One sum game]]></description>
-        <link>https://thegrid.ai/theonesumgame/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 21 Jun 2016 21:20:42 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/theonesumgame/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>So I decided to create a site that, at some point in the recent past, might have acted as a sort of apology for why my thinking is -- by any traditional American standard -- weird. I thought "Who are the people that have helped me to shape the way I look at the world, and how can I showcase how each of their contributions to my own cognitive frame have brought me to want to build a site entitled the One sum game?"</p>]]></description>
-            <link>https://thegrid.ai/theonesumgame/so-i-decided-to-create-a-site-that-at-some-point-in-the-rec/index.html</link>
-            <guid isPermaLink="false">4a7099d5-9f4a-4957-a600-63182efb082a</guid>
-            <pubDate>Tue, 21 Jun 2016 21:20:41 GMT</pubDate>
-        </item>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>If you're going to come out to the world as having a counter-cultural worldview in the 21st Century, one can hardly avoid reference to the late, great Terence McKenna. Although my view of the famous ethnobotanist, student, and shaman of the alchemical foundations of human consciousness has changed over the decades since his many writings changed the way I perceive the nature of the human condition in the cosmos, I can say that his writings and lectures have had more impact on my worldview than any person I never personally met. </p>]]></description>
-            <link>https://thegrid.ai/theonesumgame/if-youre-going-to-come-out-to-the-world-as-having-a-counter/index.html</link>
+            <link>undefinedif-youre-going-to-come-out-to-the-world-as-having-a-counter/index.html</link>
             <guid isPermaLink="false">8ca16aae-d109-4dbb-87f3-a55df4496927</guid>
             <pubDate>Tue, 21 Jun 2016 21:20:41 GMT</pubDate>
         </item>
